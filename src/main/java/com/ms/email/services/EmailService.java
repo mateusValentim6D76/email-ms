@@ -10,4 +10,6 @@ public class EmailService {
 
 	@Autowired
 	private EmailRepository emailRepository;
+	
+	
 }
